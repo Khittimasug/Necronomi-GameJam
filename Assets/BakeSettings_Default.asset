@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e28def1d85865d4f9ccaf020b462696, type: 3}
+  m_Name: BakeSettings_Default
+  m_EditorClassIdentifier: Assembly-CSharp::Necronomi.Rhythm.ChartBakeSettings
+  difficulty: 1
+  customNotesPerSecond: 4
+  laneCount: 4
+  laneBandEdgesHz:
+  - 100
+  - 1500
+  - 7500
+  maxLaneRun: 3
+  fftSize: 1024
+  hopSize: 512
+  fluxMinHz: 40
+  fluxMaxHz: 12000
+  logCompression: 1
+  compressionLambda: 1000
+  thresholdWindow: 20
+  thresholdMultiplier: 1.5
+  thresholdFloor: 0.02
+  minNoteSpacing: 0.09
+  manualBpm: 0
+  bpmMin: 70
+  bpmMax: 180
+  quantizeMode: 2
+  subdivision: 4
+  snapToleranceSeconds: 0.06
+  trimToHook: 0
+  hookLengthSeconds: 40
+  hookPreRoll: 1
+  generateHolds: 0
+  minHoldSeconds: 0.45
+  holdSustainRatio: 0.5

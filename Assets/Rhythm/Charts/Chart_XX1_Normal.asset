@@ -1,0 +1,2762 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e702089bbd2c6b44891b85924f71ba6, type: 3}
+  m_Name: Chart_XX1_Normal
+  m_EditorClassIdentifier: Assembly-CSharp::Necronomi.Rhythm.SongChart
+  clip: {fileID: 8300000, guid: 718b4aca1126c0a459119b24ee6371c0, type: 3}
+  title: XX1
+  artist: 
+  bpm: 161.49902
+  firstBeatTime: 0.18575963718820862
+  tempoConfidence: 1
+  startTime: 0
+  endTime: 155.97714233398438
+  laneCount: 4
+  audioOffset: 0
+  notes:
+  - time: 0.09287981859410431
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.05982968
+  - time: 0.8359183673469388
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.3848589
+  - time: 0.9287981859410431
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.42869204
+  - time: 1.1145578231292517
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.21792659
+  - time: 1.3003174603174603
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.52732575
+  - time: 1.486077097505669
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.14148284
+  - time: 1.6718367346938776
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.43147457
+  - time: 1.8575963718820863
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.25605142
+  - time: 1.9504761904761905
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.24414521
+  - time: 2.136235827664399
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.5831492
+  - time: 2.2291156462585033
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.21317253
+  - time: 2.4148752834467118
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.5471954
+  - time: 2.6006349206349206
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.2961944
+  - time: 2.786394557823129
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.65866035
+  - time: 2.972154195011338
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.17550077
+  - time: 3.1579138321995464
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.7740259
+  - time: 3.343673469387755
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.34458417
+  - time: 3.436553287981859
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.16997828
+  - time: 3.622312925170068
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.44929862
+  - time: 3.715192743764172
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.21145977
+  - time: 3.900952380952381
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.57871366
+  - time: 3.993832199546485
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.15919858
+  - time: 4.08671201814059
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.13273506
+  - time: 4.272471655328799
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.29062888
+  - time: 4.6439909297052155
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.13918193
+  - time: 5.572789115646259
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.99999994
+  - time: 5.665668934240363
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.06855421
+  - time: 5.944308390022676
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.7510618
+  - time: 6.03718820861678
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.059180237
+  - time: 6.315827664399094
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.8506508
+  - time: 6.408707482993198
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.061299108
+  - time: 6.6873469387755105
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.9162519
+  - time: 7.244625850340136
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.112407245
+  - time: 7.430385487528345
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.14811333
+  - time: 7.616145124716554
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.22243942
+  - time: 7.801904761904762
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.13458124
+  - time: 7.987664399092971
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.18697378
+  - time: 8.17342403628118
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.14834805
+  - time: 8.359183673469389
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.30090892
+  - time: 8.544943310657597
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.1508433
+  - time: 8.730702947845806
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.30087793
+  - time: 8.916462585034013
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.14491896
+  - time: 9.102222222222222
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.20141889
+  - time: 9.195102040816327
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.107375294
+  - time: 9.380861678004536
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.17594488
+  - time: 9.659501133786849
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.11835939
+  - time: 9.845260770975058
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.39155918
+  - time: 10.031020408163267
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.18945274
+  - time: 10.216780045351474
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.26165858
+  - time: 10.309659863945578
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.11860194
+  - time: 10.495419501133787
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.26082125
+  - time: 10.681179138321996
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.16705136
+  - time: 10.866938775510205
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.30809644
+  - time: 11.052698412698414
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.20380579
+  - time: 11.238458049886622
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.295513
+  - time: 11.42421768707483
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.12698628
+  - time: 11.609977324263038
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.23039787
+  - time: 11.795736961451247
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.12178581
+  - time: 11.981496598639456
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.29711145
+  - time: 12.167256235827665
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.18194745
+  - time: 12.353015873015874
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.23151207
+  - time: 12.538775510204083
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.14402263
+  - time: 12.724535147392292
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.15219855
+  - time: 12.910294784580499
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.12089264
+  - time: 13.096054421768708
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.17555004
+  - time: 13.281814058956916
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.1788146
+  - time: 13.467573696145125
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.22888455
+  - time: 13.653333333333334
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.22712898
+  - time: 13.839092970521543
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.24166831
+  - time: 14.024852607709752
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.12370541
+  - time: 14.210612244897959
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.2635331
+  - time: 14.396371882086168
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.1800758
+  - time: 14.582131519274377
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.33312562
+  - time: 14.767891156462586
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.158163
+  - time: 14.953650793650795
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.27410877
+  - time: 15.139410430839003
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.17408434
+  - time: 15.325170068027212
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.2448358
+  - time: 15.51092970521542
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.13764115
+  - time: 15.696689342403628
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.22854167
+  - time: 15.882448979591837
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.22181481
+  - time: 16.068208616780044
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.3855174
+  - time: 16.253968253968253
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.20441777
+  - time: 16.439727891156462
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.23632246
+  - time: 16.62548752834467
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.14623404
+  - time: 16.81124716553288
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.1365059
+  - time: 16.99700680272109
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.12893032
+  - time: 17.368526077097506
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.44838956
+  - time: 17.740045351473924
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.28024206
+  - time: 18.11156462585034
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.135498
+  - time: 18.204444444444444
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.14650977
+  - time: 18.390204081632653
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.11110701
+  - time: 18.48308390022676
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.15423611
+  - time: 18.854603174603174
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.13167115
+  - time: 19.040362811791383
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.10371877
+  - time: 19.319002267573698
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.11977048
+  - time: 19.504761904761907
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.1273793
+  - time: 19.690521541950115
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.53415644
+  - time: 19.876281179138324
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.25433403
+  - time: 20.06204081632653
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.13834594
+  - time: 20.24780045351474
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.14521278
+  - time: 20.619319727891156
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.30979982
+  - time: 20.990839002267574
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.61441743
+  - time: 21.08371882086168
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.08941499
+  - time: 21.36235827664399
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.6640955
+  - time: 21.5481179138322
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.11548253
+  - time: 21.73387755102041
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.10420355
+  - time: 22.01251700680272
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.48956606
+  - time: 22.105396825396827
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.13322651
+  - time: 22.476916099773245
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.22689235
+  - time: 22.84843537414966
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.43025005
+  - time: 23.219954648526077
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.7631758
+  - time: 23.591473922902495
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.6295622
+  - time: 23.962993197278912
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.7125767
+  - time: 24.33451247165533
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.90433246
+  - time: 24.427392290249433
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.21778865
+  - time: 24.52027210884354
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.26812673
+  - time: 24.706031746031748
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.35622388
+  - time: 24.891791383219957
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.22043462
+  - time: 25.077551020408166
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.47711468
+  - time: 25.263310657596374
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.1248114
+  - time: 25.44907029478458
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.17230248
+  - time: 25.820589569160997
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.2952931
+  - time: 26.006349206349206
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.27993783
+  - time: 26.192108843537415
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.32103917
+  - time: 26.377868480725624
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.16875468
+  - time: 26.563628117913833
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.17754984
+  - time: 26.93514739229025
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.28019696
+  - time: 27.12090702947846
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.14581731
+  - time: 27.30666666666667
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.14639536
+  - time: 27.39954648526077
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.10745525
+  - time: 27.678185941043086
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.49499935
+  - time: 27.863945578231295
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.24551062
+  - time: 28.0497052154195
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.39819905
+  - time: 28.142585034013607
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.13049425
+  - time: 28.421224489795918
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.24370003
+  - time: 28.792743764172336
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.11295459
+  - time: 29.07138321995465
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.5584606
+  - time: 29.442902494331065
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.4248192
+  - time: 29.72154195011338
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.20110108
+  - time: 29.90730158730159
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.25461686
+  - time: 30.093061224489798
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.24081217
+  - time: 30.278820861678007
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.120468386
+  - time: 30.37170068027211
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.1126406
+  - time: 30.55746031746032
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.107884474
+  - time: 30.83609977324263
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.13350497
+  - time: 30.928979591836736
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.17255887
+  - time: 31.114739229024945
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.113206945
+  - time: 31.300498866213154
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.16290121
+  - time: 31.486258503401363
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.31507656
+  - time: 31.67201814058957
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.14156048
+  - time: 31.85777777777778
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.36271092
+  - time: 32.04353741496598
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.18530303
+  - time: 32.4150566893424
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.32520878
+  - time: 32.60081632653061
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.18358956
+  - time: 32.78657596371882
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.1983744
+  - time: 32.97233560090703
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.11488392
+  - time: 33.06521541950113
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.18655354
+  - time: 33.52961451247165
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.20403276
+  - time: 33.71537414965986
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.17085251
+  - time: 33.90113378684807
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.10822345
+  - time: 34.086893424036276
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.15101399
+  - time: 34.27265306122449
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.180329
+  - time: 34.458412698412694
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.15989748
+  - time: 34.644172335600906
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.14432998
+  - time: 35.015691609977324
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.42254156
+  - time: 35.38721088435374
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.48836744
+  - time: 35.75873015873016
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.41508454
+  - time: 36.13024943310657
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.5327531
+  - time: 37.430566893424036
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.10408364
+  - time: 37.61632653061224
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.14560436
+  - time: 37.802086167800454
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.37565178
+  - time: 37.89496598639455
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.14724004
+  - time: 38.17360544217687
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.21163808
+  - time: 38.54512471655328
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.17140538
+  - time: 38.730884353741494
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.14792542
+  - time: 38.9166439909297
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.15544595
+  - time: 39.28816326530612
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.13378367
+  - time: 39.381043083900224
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.31274408
+  - time: 39.566802721088436
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.17999434
+  - time: 39.84544217687075
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.3418327
+  - time: 39.93832199546485
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.15909094
+  - time: 40.216961451247165
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.11780081
+  - time: 40.309841269841264
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.14260864
+  - time: 40.49560090702948
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.1156238
+  - time: 40.867120181405895
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.48901552
+  - time: 41.23863945578231
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.20307882
+  - time: 41.795918367346935
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.11263356
+  - time: 43.096235827664394
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.14607403
+  - time: 43.46775510204081
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.12032076
+  - time: 43.653514739229024
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.1432126
+  - time: 43.83927437641723
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.15092276
+  - time: 44.02503401360544
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.13386546
+  - time: 44.21079365079365
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.114320084
+  - time: 44.582312925170065
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.21068199
+  - time: 44.76807256235828
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.18204819
+  - time: 44.95383219954648
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.17579274
+  - time: 45.13959183673469
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.1073342
+  - time: 46.068390022675736
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.14064318
+  - time: 46.62566893424036
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.16523257
+  - time: 46.81142857142857
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.12212713
+  - time: 47.368707482993194
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.10754581
+  - time: 47.55446712018141
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.15332104
+  - time: 47.74022675736961
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.13559826
+  - time: 48.297505668934235
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.13257313
+  - time: 48.39038548752834
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.149639
+  - time: 48.576145124716554
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.10645915
+  - time: 48.854784580498865
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.1265233
+  - time: 49.04054421768707
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.11574087
+  - time: 49.41206349206349
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.110755675
+  - time: 49.783582766439906
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.14730091
+  - time: 50.155102040816324
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.117459744
+  - time: 50.24798185941043
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.117065735
+  - time: 50.433741496598635
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.113014005
+  - time: 50.52662131519274
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.10454415
+  - time: 50.61950113378685
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.1342905
+  - time: 50.71238095238095
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.102943115
+  - time: 52.66285714285714
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.17439276
+  - time: 53.03437641723356
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.34928003
+  - time: 53.40589569160998
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.119899295
+  - time: 53.49877551020408
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.13147746
+  - time: 53.68453514739229
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.13007967
+  - time: 53.777414965986395
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.13629831
+  - time: 53.9631746031746
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.14690062
+  - time: 54.14893424036281
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.19235258
+  - time: 54.33469387755102
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.104968615
+  - time: 54.52045351473922
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.11365803
+  - time: 54.706213151927436
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.17320113
+  - time: 54.89197278911564
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.36201757
+  - time: 55.077732426303854
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.12323138
+  - time: 55.44925170068027
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.14865884
+  - time: 55.63501133786848
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.19948772
+  - time: 55.82077097505669
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.18638773
+  - time: 56.19229024943311
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.13893281
+  - time: 56.37804988662131
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.22333486
+  - time: 56.563809523809525
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.25703612
+  - time: 56.74956916099773
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.39083213
+  - time: 56.93532879818594
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.31361818
+  - time: 57.12108843537415
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.16675635
+  - time: 57.30684807256235
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.13302828
+  - time: 57.492607709750565
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.10344791
+  - time: 57.77124716553288
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.34105942
+  - time: 58.04988662131519
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.51150924
+  - time: 58.2356462585034
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.12214124
+  - time: 58.421405895691606
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.15344678
+  - time: 58.51428571428571
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.46791342
+  - time: 58.792925170068024
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.18673652
+  - time: 58.88580498866213
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.10638701
+  - time: 59.071564625850336
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.117897175
+  - time: 59.25732426303855
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.27641082
+  - time: 59.44308390022675
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.23242639
+  - time: 59.628843537414966
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.43647173
+  - time: 59.81460317460317
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.23560372
+  - time: 60.00036281179138
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.33394098
+  - time: 60.18612244897959
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.3694043
+  - time: 60.3718820861678
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.39759323
+  - time: 60.55764172335601
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.15051478
+  - time: 60.74340136054422
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.12702072
+  - time: 61.02204081632653
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.2172042
+  - time: 61.207800453514736
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.110278726
+  - time: 61.48643990929705
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.21320471
+  - time: 61.67219954648526
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.22218902
+  - time: 62.22947845804988
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.13444781
+  - time: 62.6009977324263
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.11684446
+  - time: 62.78675736961451
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.15117605
+  - time: 62.87963718820861
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.124671675
+  - time: 62.97251700680272
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.27510208
+  - time: 63.15827664399093
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.14640282
+  - time: 63.344036281179136
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.20610105
+  - time: 63.52979591836735
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.15981309
+  - time: 63.62267573696145
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.17696488
+  - time: 63.715555555555554
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.24918096
+  - time: 63.90131519274376
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.12476587
+  - time: 64.08707482993198
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.489847
+  - time: 64.45859410430839
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.45410374
+  - time: 64.73723356009071
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.5677187
+  - time: 65.10875283446713
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.1512013
+  - time: 65.29451247165534
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.22034042
+  - time: 65.48027210884354
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.17632279
+  - time: 65.94467120181406
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.12831877
+  - time: 66.13043083900227
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.23700802
+  - time: 66.31619047619049
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.1817249
+  - time: 66.6877097505669
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.17150928
+  - time: 66.87346938775511
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.11574201
+  - time: 67.05922902494332
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.12004547
+  - time: 67.24498866213152
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.37488264
+  - time: 67.43074829931973
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.18424515
+  - time: 67.52362811791384
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.30703032
+  - time: 67.80226757369616
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.16804005
+  - time: 67.89514739229026
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.16753308
+  - time: 68.17378684807257
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.28064612
+  - time: 68.35954648526078
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.13050114
+  - time: 68.45242630385488
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.11813154
+  - time: 68.54530612244899
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.11697802
+  - time: 68.73106575963719
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.10368395
+  - time: 68.9168253968254
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.1393769
+  - time: 69.0097052154195
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.21215503
+  - time: 69.47410430839003
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.11758349
+  - time: 69.56698412698414
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.17390543
+  - time: 69.65986394557824
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.11061862
+  - time: 69.75274376417234
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.16254525
+  - time: 70.03138321995465
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.19143571
+  - time: 70.31002267573696
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.58483523
+  - time: 70.68154195011338
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.5756943
+  - time: 71.0530612244898
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.5170917
+  - time: 71.42458049886622
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.36981764
+  - time: 71.51746031746032
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.14865501
+  - time: 72.16761904761906
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.17760278
+  - time: 72.53913832199547
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.21014193
+  - time: 72.72489795918368
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.19409911
+  - time: 72.91065759637189
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.17224333
+  - time: 73.09641723356009
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.30205217
+  - time: 73.2821768707483
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.21463716
+  - time: 73.37505668934241
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.1119089
+  - time: 73.65369614512473
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.2120247
+  - time: 73.83945578231292
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.1540998
+  - time: 74.02521541950114
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.10937377
+  - time: 74.58249433106576
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.15214401
+  - time: 74.95401360544219
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.19705532
+  - time: 75.1397732426304
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.2090425
+  - time: 75.3255328798186
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.1374213
+  - time: 75.69705215419502
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.11016502
+  - time: 76.25433106575964
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.5154902
+  - time: 76.62585034013605
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.25236338
+  - time: 76.99736961451248
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.116027765
+  - time: 77.36888888888889
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.56707263
+  - time: 77.5546485260771
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.11173817
+  - time: 78.76208616780046
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.13680415
+  - time: 78.94784580498867
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.14682873
+  - time: 79.13360544217687
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.11434542
+  - time: 79.31936507936508
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.16699964
+  - time: 79.5051247165533
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.15062496
+  - time: 79.6908843537415
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.10421611
+  - time: 79.87664399092971
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.16647261
+  - time: 80.06240362811792
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.16151819
+  - time: 80.24816326530613
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.16866723
+  - time: 80.43392290249433
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.1324288
+  - time: 80.61968253968254
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.14075029
+  - time: 81.17696145124717
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.10438097
+  - time: 81.36272108843538
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.10876454
+  - time: 81.92
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.10778271
+  - time: 82.10575963718821
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.13424025
+  - time: 82.29151927437643
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.11577866
+  - time: 82.66303854875284
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.1291627
+  - time: 82.84879818594105
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.12916559
+  - time: 83.22031746031746
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.12739274
+  - time: 83.59183673469389
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.13621281
+  - time: 83.7775963718821
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.11053398
+  - time: 83.8704761904762
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.098769836
+  - time: 84.14911564625851
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.12280861
+  - time: 84.70639455782313
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.11523344
+  - time: 85.07791383219956
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.13530448
+  - time: 85.63519274376418
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.12648897
+  - time: 86.00671201814059
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.17615928
+  - time: 86.84263038548754
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.10976963
+  - time: 87.95718820861678
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.2066965
+  - time: 88.42158730158731
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.11408212
+  - time: 89.53614512471655
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.113580994
+  - time: 89.81478458049887
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.13469185
+  - time: 90.5578231292517
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.18265826
+  - time: 91.30086167800454
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.17599669
+  - time: 91.67238095238096
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.17806882
+  - time: 92.04390022675737
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.18376346
+  - time: 92.4154195011338
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.13704567
+  - time: 92.78693877551021
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.14047329
+  - time: 93.15845804988663
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.08169303
+  - time: 93.52997732426304
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.18177411
+  - time: 93.90149659863947
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.14364876
+  - time: 94.27301587301588
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.13539858
+  - time: 94.64453514739229
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.18882613
+  - time: 95.01605442176871
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.21023934
+  - time: 95.38757369614513
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.12171264
+  - time: 95.75909297052155
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.24447799
+  - time: 96.13061224489796
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.16792825
+  - time: 96.50213151927439
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.1096777
+  - time: 96.8736507936508
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.17308098
+  - time: 97.24517006802722
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.13421828
+  - time: 97.70956916099775
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.14721939
+  - time: 98.08108843537416
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.2442579
+  - time: 98.73124716553289
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.09675749
+  - time: 99.0098866213152
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.1369824
+  - time: 99.38140589569161
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.15877365
+  - time: 99.93868480725624
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.22885469
+  - time: 100.12444444444445
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.12715985
+  - time: 100.31020408163266
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.14574522
+  - time: 100.49596371882087
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.12709078
+  - time: 100.86748299319729
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.122747
+  - time: 101.2390022675737
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.12817991
+  - time: 101.61052154195012
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.15770003
+  - time: 102.16780045351474
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.1335007
+  - time: 102.35356009070296
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.27119577
+  - time: 102.53931972789117
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.29728723
+  - time: 102.72507936507937
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.1346574
+  - time: 103.09659863945579
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.10798931
+  - time: 103.28235827664399
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.11942249
+  - time: 103.56099773242632
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.15337823
+  - time: 103.65387755102041
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.15693401
+  - time: 103.83963718820863
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.119580194
+  - time: 104.58267573696146
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.18133736
+  - time: 104.95419501133787
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.23645355
+  - time: 105.3257142857143
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.19856326
+  - time: 105.69723356009071
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.13962917
+  - time: 105.88299319727892
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.11103634
+  - time: 105.97587301587302
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.18927374
+  - time: 106.81179138321995
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.18859883
+  - time: 107.18331065759638
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.15318833
+  - time: 107.55482993197279
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.106669955
+  - time: 107.92634920634922
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.206852
+  - time: 108.11210884353743
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.1026448
+  - time: 108.20498866213153
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.21637833
+  - time: 108.85514739229025
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.30728865
+  - time: 109.04090702947846
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.16378678
+  - time: 109.41242630385489
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.13755234
+  - time: 109.7839455782313
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.14337866
+  - time: 109.8768253968254
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.09802367
+  - time: 110.06258503401361
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.08793156
+  - time: 110.43410430839003
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.14536707
+  - time: 111.54866213151928
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.10777934
+  - time: 112.75609977324264
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.17507882
+  - time: 115.63537414965987
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.20256142
+  - time: 115.91401360544218
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.11031442
+  - time: 116.19265306122449
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.13227408
+  - time: 116.3784126984127
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.11009113
+  - time: 116.74993197278913
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.12916929
+  - time: 117.12145124716554
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.21041654
+  - time: 117.40009070294785
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.12694111
+  - time: 117.58585034013606
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.122173116
+  - time: 117.77160997732427
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.10689953
+  - time: 117.86448979591837
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.14195742
+  - time: 118.23600907029478
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.14572126
+  - time: 118.60752834467121
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.16094086
+  - time: 119.07192743764173
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.14754456
+  - time: 119.62920634920636
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.11957275
+  - time: 120.00072562358277
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.1382791
+  - time: 120.37224489795919
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.12942205
+  - time: 120.5580045351474
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.10374668
+  - time: 120.7437641723356
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.18834423
+  - time: 120.92952380952381
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.100659996
+  - time: 121.30104308390024
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.12148363
+  - time: 121.39392290249434
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.112135425
+  - time: 122.04408163265306
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.13040456
+  - time: 122.97287981859411
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.16875513
+  - time: 123.25151927437642
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.114633106
+  - time: 123.71591836734694
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.112516254
+  - time: 124.27319727891157
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.15991797
+  - time: 124.45895691609978
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.12906422
+  - time: 124.64471655328799
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.23960346
+  - time: 124.83047619047619
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.18882993
+  - time: 125.0162358276644
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.118637696
+  - time: 125.20199546485262
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.11026611
+  - time: 125.57351473922903
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.21268675
+  - time: 125.94503401360545
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.1548042
+  - time: 126.31655328798186
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.11283149
+  - time: 127.80263038548753
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.11604271
+  - time: 128.17414965986396
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.10825326
+  - time: 128.35990929705216
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.11871308
+  - time: 128.54566893424035
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.16478722
+  - time: 128.73142857142855
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.12614009
+  - time: 128.82430839002268
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.10188855
+  - time: 129.10294784580498
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.12199326
+  - time: 129.2887074829932
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.16823846
+  - time: 129.6602267573696
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.17527016
+  - time: 129.7531065759637
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.114894606
+  - time: 130.03174603174602
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.10891199
+  - time: 130.68190476190475
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.12645677
+  - time: 131.05342403628117
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.12902632
+  - time: 131.23918367346937
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.18497568
+  - time: 131.4249433106576
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.12737426
+  - time: 131.6107029478458
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.11575969
+  - time: 132.16798185941042
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.17159589
+  - time: 132.35374149659864
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.13143283
+  - time: 132.53950113378684
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.1376762
+  - time: 132.91102040816327
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.12668435
+  - time: 133.09678004535147
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.15052956
+  - time: 133.4682993197279
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.14925703
+  - time: 133.6540589569161
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.14837186
+  - time: 134.0255782312925
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.13588257
+  - time: 134.39709750566894
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.14869423
+  - time: 134.76861678004533
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.119973645
+  - time: 134.95437641723356
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.1087808
+  - time: 135.14013605442176
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.118661314
+  - time: 135.32589569160996
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.15734918
+  - time: 135.41877551020409
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.12324559
+  - time: 136.254693877551
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.10981901
+  - time: 137.27637188208615
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.32666284
+  - time: 137.64789115646258
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.29252225
+  - time: 138.2980498866213
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.11281509
+  - time: 138.85532879818592
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.10790322
+  - time: 139.13396825396825
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.11046183
+  - time: 139.41260770975055
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.123546295
+  - time: 139.50548752834467
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.23993553
+  - time: 139.69124716553287
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.119337425
+  - time: 139.9698866213152
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.2146395
+  - time: 140.0627664399093
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.18975772
+  - time: 140.2485260770975
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.14998767
+  - time: 140.4342857142857
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.17795022
+  - time: 140.62004535147392
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.1734145
+  - time: 140.80580498866212
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.21761851
+  - time: 140.99156462585034
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.22452845
+  - time: 141.17732426303854
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.15393196
+  - time: 141.36308390022674
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.16611491
+  - time: 141.54884353741497
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.13323268
+  - time: 141.73460317460317
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.19384742
+  - time: 141.92036281179136
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.23482503
+  - time: 142.1061224489796
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.15286767
+  - time: 142.2918820861678
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.21092641
+  - time: 142.47764172335602
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.1975094
+  - time: 142.6634013605442
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.15960357
+  - time: 142.8491609977324
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.14008231
+  - time: 143.03492063492064
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.23400582
+  - time: 143.22068027210884
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.20984946
+  - time: 143.40643990929703
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.26122254
+  - time: 143.59219954648526
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.14884785
+  - time: 143.77795918367346
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.17923532
+  - time: 143.96371882086166
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.10698133
+  - time: 144.14947845804988
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.1118021
+  - time: 144.5209977324263
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.11846174
+  - time: 144.7067573696145
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.15452315
+  - time: 144.8925170068027
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.14747454
+  - time: 145.07827664399093
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.16302203
+  - time: 145.26403628117913
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.18525524
+  - time: 145.44979591836733
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.14173743
+  - time: 145.63555555555556
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.106156655
+  - time: 145.82131519274375
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.1685682
+  - time: 146.00707482993195
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.20544098
+  - time: 146.19283446712018
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.1574697
+  - time: 146.37859410430838
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.107295424
+  - time: 146.7501133786848
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.12823996
+  - time: 147.12163265306123
+    lane: 1
+    type: 0
+    holdDuration: 0
+    strength: 0.110070355
+  - time: 148.51482993197277
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.108120464
+  - time: 149.07210884353742
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.23058496
+  - time: 149.53650793650792
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.13074948
+  - time: 149.90802721088434
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.13869771
+  - time: 150.37242630385487
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.15656711
+  - time: 150.55818594104306
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.24039792
+  - time: 150.7439455782313
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.3945299
+  - time: 150.9297052154195
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.20988117
+  - time: 151.11546485260772
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.22674753
+  - time: 151.3012244897959
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.19731086
+  - time: 151.67274376417234
+    lane: 3
+    type: 0
+    holdDuration: 0
+    strength: 0.1957409
+  - time: 152.04426303854873
+    lane: 2
+    type: 0
+    holdDuration: 0
+    strength: 0.2802712
+  - time: 152.41578231292516
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.28262642
+  - time: 152.78730158730158
+    lane: 0
+    type: 0
+    holdDuration: 0
+    strength: 0.15749352
+  bakeReport: 'Clip        : XX1  (156.0s, 44100 Hz, 2ch)
+
+    Frames      : 13433
+    @ 11.6 ms
+
+    Raw onsets  : 543
+
+    Tempo       : 161.5 BPM, first beat 0.186s,
+    confidence 100 %
+
+    Window      : 0.00s -> 155.98s  (full clip)
+
+    In window  
+    : 543
+
+    Quantized   : 543 kept, 0 off grid dropped (1/16 grid)
+
+    After
+    gap   : 542 (min 90 ms apart)
+
+    Density     : 542 notes for 156.0s = 3.47/s
+    (target 3.50/s)
+
+    Final       : 542 notes across 4 lanes
+
+    Lanes      
+    : L0=105  L1=101  L2=149  L3=187  '

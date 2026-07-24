@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df181befd8c64070b9f067e287a5bdcf, type: 3}
+  m_Name: SampleDialogue
+  m_EditorClassIdentifier: 
+  lines:
+  - CharName: ???
+    CharSprite: {fileID: 21300000, guid: 6efabec56db8e104680881cbd1fa8c61, type: 3}
+    Sentence: Can I drink you milk Mommy Freakkk!!!
+  - CharName: Mochi
+    CharSprite: {fileID: 21300000, guid: 7ea169cdc7b7eae488e3779bb602acf7, type: 3}
+    Sentence: Ofc You can drink my milk, Honey <3
+  - CharName: ???
+    CharSprite: {fileID: 21300000, guid: 6efabec56db8e104680881cbd1fa8c61, type: 3}
+    Sentence: Yes Mommy I will suck it dry!!
